@@ -112,4 +112,5 @@ project/
 ├── camera_sender.py (optional)
 ├── camera_socket_receiver.py (optional)
 ├── README.md
+├── COMP-3766 - Video presentation.mp4
 ```
